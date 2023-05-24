@@ -10,4 +10,4 @@ function numbersFrom1To10(){
     }
 }
 
-numbersFrom1To10()
+numbersFrom1To10();
